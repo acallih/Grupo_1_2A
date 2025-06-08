@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tosnos</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header class="navbar">
+    <div class="logo">Tosnos</div>
+    <nav>
+      <ul class="menu">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Product</a></li>
+        <li><a href="#">Feature</a></li>
+        <li><a href="#">Pricing</a></li>
+      </ul>
+    </nav>
+    <div class="auth-buttons">
+      <a href="#" class="sign-up">Sign Up</a>
+      <a href="#" class="log-in">Log In</a>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="textos">
+      <h1>Create & analytics all necessaries</h1>
+      <p>Manage your all documents transparent, safe and secure. We provide world’s .</p>
+    
+      <div class="buttons">
+        <button class="primary">Get Started</button>
+        <button class="secondary">Explore More</button>
+      </div>
+      <div class="brands">
+        <span>Netflix</span>
+        <span>Slack</span>
+        <span>Converse</span>
+        <span>Shazam</span>
+        <span>Prada</span>
+        <section class="features">
+  <div class="features-header">
+    <span class="label">Features</span>
+    <h2>Most essential features</h2>
+    <p>Lorem ipsum dolor sit amet consectetur. Neque vel orci eget rhoncus pretium. Proin ultricies elementum aliquet.</p>
+  </div>
+
+  <div class="feature-cards">
+    <div class="feature-card card-blue">
+      <h3>Service Godown</h3>
+      <p>Flexibility</p>
+      <div class="avatars">
+        <img src="https://via.placeholder.com/40" alt="User 1">
+        <img src="https://via.placeholder.com/40" alt="User 2">
+        <img src="https://via.placeholder.com/40" alt="User 3">
+      </div>
+    </div>
+
+    <div class="feature-card card-yellow">
+      <h3>Vast Storage</h3>
+      <p><span class="badge working">Working</span> <span class="badge remaining">Remaining</span></p>
+      <div class="circle">85%</div>
+    </div>
+
+    <div class="feature-card card-pink">
+      <h3>Latest Analytics</h3>
+      <p>Growth rate — <span class="growth">+15.5%</span></p>
+      <div class="graph-placeholder">📈</div>
+    </div>
+  </div>
+</section>
+      
+         <p><h2>Most essential features</h2></p>
+      </div>
+    </div>
+
+    <div class="grafico">
+      <div class="box chart1">📊 Statistics Report</div>
+      <div class="box chart2">📈 Analysis</div>
+      <div class="box chart3">📁 Total Documents</div>
+      
+    </div>
+  </section>
+
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Tosnos UI Section</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <section class="dashboard-section">
+
+    <div class="top-cards">
+      <div class="card half-card">
+        <h4>Work Regulator</h4>
+        <img src="https://via.placeholder.com/250x120" alt="Chart Placeholder"/>
+        <div class="task-count">858 <span>Task</span></div>
+        <div class="status-indicators">
+          <span class="status pending">Pending</span>
+          <span class="status processing">Processing</span>
+          <span class="status done">Completed</span>
+        </div>
+      </div>
+
+      <div class="card text-card">
+        <span class="label">SERVICE FLOW</span>
+        <h3>All services follow our unique flow</h3>
+        <p>Lorem ipsum dolor sit amet consectetur. Neque vel orci eget rhoncus pretium. Propin ultrices elementes aliqurt.</p>
+        <div class="buttons">
+          <a href="#" class="btn-primary">Discover Now</a>
+          <a href="#" class="btn-outline">Get Service</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="middle-section">
+      <div class="card testimonial-text">
+        <span class="label">PERFORMANCE</span>
+        <h3>Clients look very delightful with our performance</h3>
+        <p>Lorem ipsum dolor sit amet consectetur. Tristique vel odio eget rhoncus pretium.</p>
+        <a href="#" class="btn-primary">Learn More</a>
+        <div class="avatars">
+          <img src="https://via.placeholder.com/40" alt="Avatar 1"/>
+          <img src="https://via.placeholder.com/40" alt="Avatar 2"/>
+          <img src="https://via.placeholder.com/40" alt="Avatar 3"/>
+        </div>
+      </div>
+
+      <div class="card graph-card">
+        <h4>Progress Chart</h4>
+        <img src="https://via.placeholder.com/250x150" alt="Progress chart"/>
+      </div>
+    </div>
+
+    <div class="testimonial-section card">
+      <span class="label">TESTIMONIAL</span>
+      <h3>Have a look clients good impression on us</h3>
+      <p>Lorem ipsum dolor sit amet consectetur. Neque vel etc.</p>
+      <div class="testimonial">
+        <img src="https://via.placeholder.com/80" class="avatar" alt="Nadal Finch"/>
+        <div>
+          <strong>Nadal Finch</strong><br/>
+          CEO, Company<br/>
+          <p>It was a nice experience to work with "Tosnos". They are very co-operative and understand the task. I am very glad to have a good relation with them.</p>
+          <span>⭐⭐⭐⭐⭐</span>
+        </div>
+      </div>
+    </div>
+
+    <footer class="footer">
+      <div class="footer-left">
+        <h4>Tosnos</h4>
+        <p>Lorem ipsum dolor sit amet consectetur. Neque vel orci eget rhoncus pretium.</p>
+      </div>
+      <div class="footer-links">
+        <div>
+          <h5>Home</h5>
+          <p>Service<br/>Features<br/>Category</p>
+        </div>
+        <div>
+          <h5>Service</h5>
+          <p>Pricing<br/>Performance</p>
+        </div>
+        <div>
+          <h5>Contact us</h5>
+          <p>Privacy<br/>Policy</p>
+        </div>
+        <div>
+          <h5>inked in</h5>
+        </div>
+      </div>
+      <div class="copyright">
+        <p>© Copyright 2024. All Rights Reserved</p>
+      </div>
+    </footer>
+
+  </section>
+</body>
+</html>
+{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f6f8fe;
+  color: #333;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+}
+
+.logo {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: #5a50ff;
+}
+
+.menu {
+  list-style: none;
+  display: flex;
+  gap: 1.5rem;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+}
+
+.auth-buttons a {
+  margin-left: 1rem;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border-radius: 6px;
+  font-weight: 500;
+}
+
+.sign-up {
+  background-color: transparent;
+  color: #333;
+}
+
+.log-in {
+  background-color: #5a50ff;
+  color: white;
+}
+
+.hero {
+  display: flex;
+  justify-content: space-between;
+  padding: 3rem 2rem;
+  gap: 2rem;
+}
+
+.textos {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.textos h1 {
+  font-size: 2.5rem;
+}
+
+.buttons {
+  display: flex;
+  gap: 1rem;
+}
+
+.primary {
+  background-color: #5a50ff;
+  color: white;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.secondary {
+  background-color: #e4e4e4;
+  color: #333;
+  padding: 0.8rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.brands {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  font-weight: bold;
+  color: #777;
+}
+
+.grafico {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.box {
+  background-color: #fff;
+  border: 2px solid #ddd;
+  border-radius: 12px;
+  padding: 1.2rem;
+  font-weight: bold;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chart1 {
+  background-color: #e6eaff;
+}
+
+.chart2 {
+  background-color: #f5ecff;
+}
+
+.chart3 {
+  background-color: #ecf9ff;
+}
+.features {
+  padding: 4rem 2rem;
+  background-color: #fff;
+  text-align: center;
+}
+
+.features-header .label {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  color: #7c73ff;
+  font-weight: bold;
+  letter-spacing: 1px;
+  background-color: #f4f3ff;
+  padding: 0.3rem 0.8rem;
+  border-radius: 20px;
+  display: inline-block;
+  margin-bottom: 0.5rem;
+}
+
+.features-header h2 {
+  font-size: 2rem;
+  margin: 0.5rem 0;
+}
+
+.features-header p {
+  color: #666;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.feature-cards {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 3rem;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.feature-card {
+  flex: 1;
+  max-width: 300px;
+  padding: 1.5rem;
+  border-radius: 20px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.05);
+  text-align: left;
+}
+
+.card-blue {
+  background-color: #eaf1ff;
+}
+
+.card-yellow {
+  background-color: #fff2cf;
+}
+
+.card-pink {
+  background-color: #ffeef6;
+}
+
+.feature-card h3 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.feature-card .avatars img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+.badge {
+  display: inline-block;
+  font-size: 0.75rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 12px;
+  color: white;
+  font-weight: bold;
+  margin-right: 0.5rem;
+}
+
+.working {
+  background-color: #7c73ff;
+}
+
+.remaining {
+  background-color: #999;
+}
+
+.circle {
+  width: 80px;
+  height: 80px;
+  background-color: white;
+  border: 8px solid #7c73ff;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-top: 1rem;
+}
+
+.growth {
+  color: #2bc58d;
+  font-weight: bold;
+}
+
+.graph-placeholder {
+  margin-top: 1rem;
+  font-size: 2rem;
+  text-align: center;
+}
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9ff;
+  color: #222;
+}
+
+.dashboard-section {
+  padding: 2rem;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.card {
+  background: white;
+  border-radius: 20px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+  padding: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.top-cards,
+.middle-section {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.half-card {
+  flex: 1;
+  min-width: 300px;
+}
+
+.text-card {
+  flex: 1;
+  min-width: 300px;
+}
+
+.text-card h3,
+.testimonial-text h3,
+.testimonial-section h3 {
+  margin-top: 0.5rem;
+}
+
+.label {
+  font-size: 0.75rem;
+  color: #7c7cfd;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.task-count {
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.task-count span {
+  font-size: 1rem;
+  font-weight: normal;
+  margin-left: 0.3rem;
+}
+
+.status-indicators {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+  font-size: 0.9rem;
+}
+
+.status {
+  padding: 0.2rem 0.6rem;
+  border-radius: 12px;
+  color: white;
+}
+
+.status.pending {
+  background: #f4b400;
+}
+.status.processing {
+  background: #4285f4;
+}
+.status.done {
+  background: #34a853;
+}
+
+.buttons {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+
+.btn-primary {
+  background: #6b6bff;
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.btn-outline {
+  border: 2px solid #6b6bff;
+  color: #6b6bff;
+  padding: 0.6rem 1.2rem;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.graph-card img,
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.testimonial {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.avatars {
+  margin-top: 1rem;
+  display: flex;
+  gap: 0.5rem;
+}
+
+.avatars img {
+  border-radius: 50%;
+}
+
+.footer {
+  background: #f2f2f2;
+  padding: 2rem;
+  border-radius: 20px;
+}
+
+.footer-left {
+  margin-bottom: 2rem;
+}
+
+.footer-links {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+
+.footer-links div h5 {
+  margin-bottom: 0.5rem;
+}
+
+.footer-links div p {
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+.copyright {
+  text-align: center;
+  margin-top: 2rem;
+  font-size: 0.85rem;
+  color: #777;
+}
